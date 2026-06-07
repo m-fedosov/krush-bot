@@ -1,3 +1,4 @@
 .DS_Store
 kurash.db
 __pycache__/
+.env
